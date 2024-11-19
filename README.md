@@ -212,6 +212,3 @@ git flow hotfix list
 ```bash
 git flow hotfix abort
 ```
-## Support
-
-For support, https://ba9chich.com/SkOouZz
